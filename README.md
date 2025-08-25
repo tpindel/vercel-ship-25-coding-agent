@@ -34,6 +34,19 @@ To create a GitHub Personal Access Token (PAT):
 7. Copy the token immediately (you won't be able to see it again)
 8. Add it to your `.env.local` file as `GITHUB_TOKEN`
 
+## Contributing
+
+We welcome contributions to improve this project! If you'd like to contribute, please follow these steps:
+
+1. Fork the repository.
+2. Create a new branch (`git checkout -b feature-name`).
+3. Make your changes.
+4. Commit your changes (`git commit -m 'Add some feature'`).
+5. Push to the branch (`git push origin feature-name`).
+6. Open a Pull Request.
+
+Please make sure your code adheres to the existing style and includes appropriate tests.
+
 ## Usage
 
 ```bash
